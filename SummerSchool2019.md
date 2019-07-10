@@ -14,9 +14,9 @@ Electronic Music and digital instruments.
 
 ![](./images/analogsynth.png)
 
-+ Making a unique instrument on our computer.
+Program a unique instrument on our computer using code.
 
-Let's see this example below:
++ Let's see this example below:
 
 ```js
 Pbind(\dur, 0.25, \degree, Pseq([1, 2, 3], inf)).play;

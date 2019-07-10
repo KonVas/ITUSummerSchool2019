@@ -1,3 +1,5 @@
+//Retrieved from https://sccode.org/1-58C
+
 (
 s.waitForBoot({
 	var intro, introFasterAttack, fastarpeggio, arpeggio, percussion, flute, lead1, bass, score;

@@ -61,7 +61,11 @@ fork({ loop{ 0.1.wait; ~change_freq.value;} });
 
 Dark Matter, Music from CERN.
 
-![](./images/cms-event.png⁩)
+![](./images/cms-detector.jpg)
+
+Using the numbers/data from the collision.
+
+![](./images/cms-event.jpg)
 
 IPSOS web app. Using the data from the Dark Matter to create sounds
 (http://ipsos.web.cern.ch/)
